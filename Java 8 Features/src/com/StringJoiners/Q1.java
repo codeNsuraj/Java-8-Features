@@ -4,9 +4,9 @@ import java.util.StringJoiner;
 
 	/**
 	 * Output:
-	 * A,B,C
+	 * [A,B,C]
 	 * P:Q
-	 * A,B,C,P:Q
+	 * [A,B,C,P:Q]
 	 */
 
 public class Q1 {
